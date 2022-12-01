@@ -7,10 +7,14 @@
   </div>
 </template>
 <style lang="less">
-.app-footer{
+.app-footer {
   height: 30px;
+  width: 100%;
   text-align: center;
+  line-height: 30px;
+  position: fixed;
+  bottom: 0;
   background-color: rgba(255, 255, 255, 0.8);
-  box-shadow: 0 4px 10px #fff;
+  box-shadow: 0 0 10px 10px #ffffff;
 }
 </style>

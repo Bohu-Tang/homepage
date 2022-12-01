@@ -1,11 +1,12 @@
 <template>
   <div class="home">
-    测试内容
+    <article-list></article-list>
   </div>
 </template>
 
 <script setup lang="ts">
 
+import ArticleList from "../components/articleList.vue";
 </script>
 
 <style lang="less" scoped>

@@ -19,13 +19,23 @@
   width: 1200px;
   margin: 0 auto;
   display: flex;
-  height: 100%;
 
 .main-content {
   width: 800px;
   box-sizing: border-box;
   background-color: #ffffff;
   border-radius: 6px;
+  padding: 10px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+
+  height: 800px;
+  &::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    border-radius: 6px;
+
+  }
 }
 
 .side-content {
