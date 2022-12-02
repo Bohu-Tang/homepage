@@ -14,7 +14,7 @@
     </div>
     <div class="content-container">
       <div class="cover">
-        <img src="https://iconfont.alicdn.com/p/avatar/Jy7B4vBnpdOl.jpeg"/>
+        <img src="https://bnz05pap001files.storage.live.com/y4mmBD7p2mcOEMGrCPGf_y1mXR3H3sapuhoQNoij6q4tXTh9tB5zgUuAsMHlp0-vtz3qVqtgoXpO86frNr1vqwdWGlzdygtSLDGQhGAhsEQWFtKj3eGZN-tP4UaoE60HeucX4qBgQ4uujy-1LTVs6tzeH34JAMrAPn_3ASchn85G1Wimi655v6LIHeEF3D8CgpB?width=440&height=437&cropmode=none"/>
       </div>
       <div class="introduction">
         测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试
